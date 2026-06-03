@@ -503,10 +503,3 @@ https://github.com/Vaishnavi0301
 
 ---
 
-# Related Project
-
-## CodeIntel-RAG
-
-Agentic RAG platform for codebase intelligence with MCP integration.
-
-https://github.com/AdithyaRaoK14/CodeIntel-RAG-Agentic-Codebase-Intelligence-Platform-with-MCP.git
