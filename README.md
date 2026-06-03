@@ -277,7 +277,7 @@ End-to-End ML Pipeline with MLflow/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/AdithyaRaoK14/End-to-End-ML-Pipeline-with-MLflow.git
+git clone https://github.com/Vaishnavi0301/End-to-End-ML-Pipeline-with-MLflow.git
 
 cd End-to-End-ML-Pipeline-with-MLflow
 ```
@@ -496,10 +496,10 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Developer
 
-### Adithya Rao Kalathur
+### Vaishnavi
 
 GitHub:
-https://github.com/AdithyaRaoK14
+https://github.com/Vaishnavi0301
 
 ---
 
